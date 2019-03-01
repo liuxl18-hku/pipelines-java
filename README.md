@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/liuxl18/liuxl18/_apis/build/status/liuxl18-hku.pipelines-java?branchName=master)](https://dev.azure.com/liuxl18/liuxl18/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
